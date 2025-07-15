@@ -1,2 +1,1 @@
-/Users/huifeng/demo/hand/3D_hand_VR/*.mp4 filter=lfs diff=lfs merge=lfs -text
-/Users/huifeng/demo/hand/hand_gesture/*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
